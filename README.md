@@ -44,7 +44,7 @@ python script to manipulate orders data
   - Output: The script should output the extracted data in the desired format, such as JSON, Excel or another CSV file.
 
 ### Top N Customers with highest sales
-![Top-N-Customers!](Top-N-Customers-with-Highest-Profits)
-![Top-N-Customers!](https://public.tableau.com/views/Top-N-customers-with-highest-profit/TopNCustomerswithHighestProfits?:language=en-US&:display_count=n&:origin=viz_share_link)
+![Top-N-Customers!](Top-N-Customers-with-Highest-Profits.png)
+[Top-N-Customers](https://public.tableau.com/views/Top-N-customers-with-highest-profit/TopNCustomerswithHighestProfits?:language=en-US&:display_count=n&:origin=viz_share_link)
 #
 ####NOTE: Changing parameter value will change value of N.
