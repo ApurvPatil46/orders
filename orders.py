@@ -67,11 +67,11 @@ def main():
     response = input("Enter a number (1-5) to select a function to execute: ")
 
     function_map = {
-        "1": read_csv_file('sales.csv'),
-        "2": compute_monthly_revenue('sales.csv'),
-        "3": compute_product_revenue('sales.csv'),
-        "4": compute_customer_revenue('sales.csv'),
-        "5": top_10_customers_by_revenue('sales.csv')
+        "1": read_csv_file('csv_filename.csv'),
+        "2": compute_monthly_revenue('csv_filename.csv'),
+        "3": compute_product_revenue('csv_filename.csv'),
+        "4": compute_customer_revenue('csv_filename.csv'),
+        "5": top_10_customers_by_revenue('csv_filename.csv')
     }
 
     if response in function_map:
