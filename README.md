@@ -42,3 +42,7 @@ python script to manipulate orders data
  10. Test case for output format:
   - Input: CSV file with data to extract
   - Output: The script should output the extracted data in the desired format, such as JSON, Excel or another CSV file.
+
+### Top N Customers with highest sales
+[Top-N-Customers](https://public.tableau.com/views/Top-N-customers-with-highest-profit/TopNCustomerswithHighestProfits?:language=en-US&:display_count=n&:origin=viz_share_link)
+####NOTE: Changing parameter value will change value of N.
