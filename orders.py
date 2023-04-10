@@ -77,7 +77,7 @@ def main():
     if response in function_map:
         function_map[response]()
     else:
-        print("Invalid response. Please enter a number between 1 and 3.")
+        print("Invalid response. Please enter a number between 1 and 5.")
 
 if __name__ == "__main__":
     main()
